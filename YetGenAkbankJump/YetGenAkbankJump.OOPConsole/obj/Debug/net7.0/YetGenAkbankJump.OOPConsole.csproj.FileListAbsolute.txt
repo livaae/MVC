@@ -1,0 +1,14 @@
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\YetGenAkbankJump.OOPConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\YetGenAkbankJump.OOPConsole.AssemblyInfoInputs.cache
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\YetGenAkbankJump.OOPConsole.AssemblyInfo.cs
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\YetGenAkbankJump.OOPConsole.csproj.CoreCompileInputs.cache
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\bin\Debug\net7.0\YetGenAkbankJump.OOPConsole.exe
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\bin\Debug\net7.0\YetGenAkbankJump.OOPConsole.deps.json
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\bin\Debug\net7.0\YetGenAkbankJump.OOPConsole.runtimeconfig.json
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\bin\Debug\net7.0\YetGenAkbankJump.OOPConsole.dll
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\bin\Debug\net7.0\YetGenAkbankJump.OOPConsole.pdb
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\YetGenAkbankJump.OOPConsole.dll
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\refint\YetGenAkbankJump.OOPConsole.dll
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\YetGenAkbankJump.OOPConsole.pdb
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\YetGenAkbankJump.OOPConsole.genruntimeconfig.cache
+C:\Users\livan\source\repos\YetGenAkbankJump\YetGenAkbankJump.OOPConsole\obj\Debug\net7.0\ref\YetGenAkbankJump.OOPConsole.dll
